@@ -10,4 +10,4 @@ My goal is to use my skills in computer science to make the world more humane, f
 - LinkedIn: https://www.linkedin.com/in/mahi-pasarkar/ 
 - Itch.io https://rainyelephant.itch.io/
 
-### [View My Resume!](https://mahi-pas.github.io/Resume/ResumeCS.pdf)
+### [View My Resume!](https://mahi-pas.github.io/Resume/ResumeCS.pdf){:target="_blank" rel="noopener"}
