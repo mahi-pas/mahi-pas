@@ -8,7 +8,7 @@ and I'm dual majoring in Computer Science
 (with a concentration in AI and Data) and 
 Games and Simulation Arts and Sciences
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=mahi-pas&theme=dracula&show_icons=true)
+![My Stats](https://readmestats.999857.xyz/api?username=mahi-pas&theme=dracula&show_icons=true)
 
 ## Contact Me:
 - Website: https://mahi-pas.github.io/ 
