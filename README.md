@@ -11,7 +11,7 @@ Games and Simulation Arts and Sciences
 ![My Stats](https://readmestats.999857.xyz/api?username=mahi-pas&theme=dracula&show_icons=true)
 
 ## Contact Me:
-- Website: https://mahi-pas.github.io/ 
+- Website: https://mahipasarkar.com/ 
 - E-mail: pasarkarmahi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mahi-pasarkar/ 
 - Itch.io https://rainyelephant.itch.io/
